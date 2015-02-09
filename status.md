@@ -21,11 +21,5 @@ git reset --hard 8785ae0f2a3daf8cd9b3450cb9e25131de538ddb
 
 git reflog
 
-git branch
 
-git branch commands(브랜치 명)
-
-git check out branch commands
-
-바꾸고 추가 똑같이
 
